@@ -187,6 +187,8 @@ i {
 footer {
   position: relative;
   width: 100%;
+  margin-top: 2.5rem;
+  bottom: 0;
   background: silver;
   min-height: 175px;
   padding: 20px 50px;
