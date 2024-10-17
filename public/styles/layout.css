@@ -33,7 +33,6 @@ i {
   color: #ffffff;
 }
 .navbar-mainbg {
-  /*  background-color: silver;*/
   background-color: whitesmoke;
   padding: 0px;
 }
@@ -185,7 +184,7 @@ i {
 }
 
 footer {
-  position: relative;
+  position: absolute;
   width: 100%;
   margin-top: 2.5rem;
   bottom: 0;
