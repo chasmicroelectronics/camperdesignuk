@@ -195,8 +195,8 @@ footer {
   margin-top: 1.5rem;
   bottom: 0;
   background: silver;
-  min-height: 175px;
-  padding: 20px 50px;
+  min-height: 250px;
+  padding: 20px 70px;
   display: flex;
   flex-direction: column;
   justify-content: center;
