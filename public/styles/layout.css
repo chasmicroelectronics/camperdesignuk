@@ -19,6 +19,12 @@ img {
   padding: 5%, 40%, 5%;
 }
 
+.img-gallery {
+  max-height: 60%;
+  object-fit: scale-down;
+  justify-content: center;
+  align-items: center;
+}
 i {
   margin-right: 10px;
   object-fit: scale-down;
