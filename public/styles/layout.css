@@ -8,8 +8,9 @@
 }
 
 background {
-  color: white;
+  color: seashell;
 }
+
 img {
   width: 100%; /* or any custom size */
   height: 100%;
